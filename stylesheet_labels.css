@@ -17,14 +17,14 @@
 }
 
 .cardinfoheader {
-	width:390px;
-	padding-left:10px;
+	width:400px;
+	margin-left:10px;
 	border-bottom: 1px solid lightgrey;
 }
 
 .cardinfodata {
-	width:230px;
-	padding:0 10px 0 10px;
+	width:250px;
+	margin:0 10px 0 10px;
 }
 
 .cardinfonumbers{
