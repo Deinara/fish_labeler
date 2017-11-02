@@ -6,6 +6,9 @@
 	margin-bottom: 10px;
 	width:600px;
 	background: linear-gradient(white, lightblue);
+	border-radius: 25px;
+    border: 2px solid grey;
+	overflow:hidden;
 }
 
 .cardinfocontainer{
@@ -16,6 +19,7 @@
 .cardinfoheader {
 	width:390px;
 	padding-left:10px;
+	border-bottom: 1px solid lightgrey;
 }
 
 .cardinfodata {

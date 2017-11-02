@@ -7,29 +7,29 @@ Example:
 
 
 ```json
-"orange_seam": {
-    "name": "Spotted Orange Seam Pleco",
-    "latin_name": "Hemiancistrus Guahiborum",
-    "image_url": "http://www.aquariumfish.net/images_01/orange_seam_pleco_150502a5_w0480.jpg",
+"swordtail": {
+    "name": "Swordtail",
+    "latin_name": "Xiphophorous Hellerii",
     "length": {
       "min": "",
-      "max": 15,
-      "avg": 12.5
+      "max": "",
+      "avg": 11
     },
-    "region": "South America",
-    "group_size": "",
+    "image_url": "https://www.petsolutions.com/images/Products/13500.jpg",
+    "region": "Central America",
+    "group_size": "Harem",
     "temper": "Peaceful",
-    "min_aquarium_size": 120,
+    "min_aquarium_size": 80,
     "food_type": "Omnivore",
     "temps": {
-      "min": 25,
-      "max": 31,
-      "ideal": ""
+      "min": 23,
+      "max": 28,
+      "ideal": 24
     },
     "pH": {
-      "min": 6,
-      "max": 7.5,
-      "ideal": 6.6
+      "min": 7,
+      "max": 8,
+      "ideal": ""
     }
   }
   ```
