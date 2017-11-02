@@ -1,0 +1,102 @@
+{
+  "swordtail": {
+    "name": "Swordtail",
+    "length": {
+      "min": "",
+      "max": "",
+      "avg": 11
+    },
+    "latin_name": "Xiphophorous Hellerii",
+    "image_url": "https://www.petsolutions.com/images/Products/13500.jpg",
+    "region": "Central America",
+    "group_size": "Harem",
+    "temper": "Peaceful",
+    "min_aquarium_size": 80,
+    "food_type": "Omnivore",
+    "temps": {
+      "min": 23,
+      "max": 28,
+      "ideal": 24
+    },
+    "pH": {
+      "min": 7,
+      "max": 8,
+      "ideal": ""
+    }
+  },
+  "cardinal_tetra": {
+    "name": "Cardinal Tetra",
+    "latin_name": "Paracheirodon Axelrodi",
+    "image_url": "https://aquaticmag.com/wp-content/uploads/2016/02/Cardinal-Tetra-Caresheet-information-Paracheirodon-axelrodi-for-sale-and-where-to-buy-AquaticMag-3.jpg",
+    "length": {
+      "min": 2,
+      "max": 3.5,
+      "avg": ""
+    },
+    "region": "South America",
+    "group_size": "School",
+    "temper": "Peaceful",
+    "min_aquarium_size": 60,
+    "food_type": "Omnivore",
+    "temps": {
+      "min": 23,
+      "max": 29,
+      "ideal": ""
+    },
+    "pH": {
+      "min": 3.5,
+      "max": 7.5,
+      "ideal": ""
+    }
+  },
+  "orange_seam": {
+    "name": "Spotted Orange Seam Pleco",
+    "latin_name": "Hemiancistrus Guahiborum",
+    "image_url": "http://www.aquariumfish.net/images_01/orange_seam_pleco_150502a5_w0480.jpg",
+    "length": {
+      "min": "",
+      "max": 15,
+      "avg": 12.5
+    },
+    "region": "South America",
+    "group_size": "",
+    "temper": "Peaceful",
+    "min_aquarium_size": 120,
+    "food_type": "Omnivore",
+    "temps": {
+      "min": 25,
+      "max": 31,
+      "ideal": ""
+    },
+    "pH": {
+      "min": 6,
+      "max": 7.5,
+      "ideal": 6.6
+    }
+  },
+  "filter_shrimp": {
+    "name": "African filter shrimp",
+    "latin_name": "Atya Gabonensis",
+    "image_url": "http://diszhal.info/halak/Atya_gabonensis.jpg",
+    "length": {
+      "min": 12,
+      "max": 15,
+      "avg": ""
+    },
+    "region": "Africa",
+    "group_size": "Unimportant",
+    "temper": "Peaceful",
+    "min_aquarium_size": 60,
+    "food_type": "Herbivore",
+    "temps": {
+      "min": 23,
+      "max": 29,
+      "ideal": ""
+    },
+    "pH": {
+      "min": 6.5,
+      "max": 7.8,
+      "ideal": ""
+    }
+  }
+}
