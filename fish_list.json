@@ -1,12 +1,12 @@
 {
   "swordtail": {
     "name": "Swordtail",
+    "latin_name": "Xiphophorous Hellerii",
     "length": {
       "min": "",
       "max": "",
       "avg": 11
     },
-    "latin_name": "Xiphophorous Hellerii",
     "image_url": "https://www.petsolutions.com/images/Products/13500.jpg",
     "region": "Central America",
     "group_size": "Harem",

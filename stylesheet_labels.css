@@ -1,0 +1,44 @@
+.cardcontainer {
+	font-family: 'Palanquin', sans-serif;
+	font-weight: bold;
+	height:200px;
+	display: flex;
+	margin-bottom: 10px;
+	width:600px;
+	background: linear-gradient(white, lightblue);
+}
+
+.cardinfocontainer{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.cardinfoheader {
+	width:390px;
+	padding-left:10px;
+}
+
+.cardinfodata {
+	width:230px;
+	padding:0 10px 0 10px;
+}
+
+.cardinfonumbers{
+	width:150px;
+}
+
+.cardtitle{
+	font-size: 130%;
+	font-weight: bolder;
+}
+
+.cardsubtitle{
+	font-style: italic;
+	font-size: 90%;
+}
+
+.cardimage {
+  object-fit: cover;
+  width:200px;
+  height:200px;
+}
