@@ -17,13 +17,13 @@
 }
 
 .cardinfoheader {
-	width:400px;
-	margin-left:10px;
+	width:380px;
+	margin:0 10px 0 10px;
 	border-bottom: 1px solid lightgrey;
 }
 
 .cardinfodata {
-	width:250px;
+	width:230px;
 	margin:0 10px 0 10px;
 }
 
