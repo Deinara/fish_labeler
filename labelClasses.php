@@ -161,6 +161,28 @@ class FishLabel
 		return $condensed;
 	}
 	
+	private function createAttribution($fishName)
+	{
+		$fishInfo = $this->properties[$fishName];
+		
+		$attrib = "";
+		$attrib .= "<div class='attributionline'>";
+		$attrib .= $fishInfo['name']." image license: ".$fishInfo['image_license'].".";
+		if ($fishInfo['image_requires_attribution']==true){
+			$attrib .= "<br>".$fishInfo['image_attribution'];
+			if (!empty($fishInfo['image_attribution_url'])){
+				$attrib .= " - <a href='".$fishInfo['image_attribution_url']."''>".substr($fishInfo['image_attribution_url'], 0, 50);
+				if (strlen($fishInfo['image_attribution_url'])>50){
+					$attrib .= "...";
+				}
+				$attrib .= "</a>";
+			}
+		}
+		$attrib .= "</div><br>";
+		
+		return $attrib;
+	}
+	
 	private function listAllFishNames()
 	{
 		$list = [];
@@ -184,5 +206,19 @@ class FishLabel
 		}
 		
 		return $cards;
+	}
+	
+	public function createAllAttributions()
+	{
+		$attribs = "";
+		
+        $fishNames = $this->listAllFishNames();
+		
+		foreach ($fishNames as $value)
+		{
+			$attribs .= $this->createAttribution($value);
+		}
+		
+		return $attribs;
 	}
 }

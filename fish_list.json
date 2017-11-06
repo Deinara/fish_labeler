@@ -8,9 +8,10 @@
       "avg": 11
     },
 	"image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Xiphophorus_hellerii_red_male_female_01.jpg",
-	"image_license": "Creative Commons Attribution-Share Alike 4.0 Internationa",
+	"image_license": "Creative Commons Attribution-Share Alike 4.0 International",
 	"image_requires_attribution": true,
-	"image_attribution": "Wojciech J. Płuciennik - https://commons.wikimedia.org/wiki/File:Xiphophorus_hellerii_red_male_female_01.jpg",
+	"image_attribution": "Wojciech J. Płuciennik",
+	"image_attribution_url": "https://commons.wikimedia.org/wiki/File:Xiphophorus_hellerii_red_male_female_01.jpg",
     "region": "Central America",
     "group_size": "Harem",
     "temper": "Peaceful",
@@ -31,9 +32,10 @@
     "name": "Cardinal Tetra",
     "latin_name": "Paracheirodon Axelrodi",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Paracheirodon_cardinalis.JPG",
-	"image_license": "Unknown",
+	"image_license": "Unspecified",
 	"image_requires_attribution": true,
-	"image_attribution": "Axel Rouvin - https://commons.wikimedia.org/wiki/File:Paracheirodon_cardinalis.JPG",
+	"image_attribution": "Axel Rouvin",
+	"image_attribution_url": "https://commons.wikimedia.org/wiki/File:Paracheirodon_cardinalis.JPG",
     "length": {
       "min": 2,
       "max": 3.5,
@@ -62,6 +64,7 @@
 	"image_license": "Image sourced from google - License info unclear",
 	"image_requires_attribution": false,
 	"image_attribution": "",
+	"image_attribution_url": "",
     "length": {
       "min": "",
       "max": 15,
@@ -90,6 +93,7 @@
 	"image_license": "Image sourced from google - License info unclear",
 	"image_requires_attribution": false,
 	"image_attribution": "",
+	"image_attribution_url": "",
     "length": {
       "min": 12,
       "max": 15,
@@ -117,7 +121,8 @@
     "image_url": "images/betta.jpg",
 	"image_license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
 	"image_requires_attribution": true,
-	"image_attribution": "Christiaan Blom - https://github.com/Deinara/fish_labeler",
+	"image_attribution": "Christiaan Blom",
+	"image_attribution_url": "https://github.com/Deinara/fish_labeler",
     "length": {
       "min": 5,
       "max": 7.5,

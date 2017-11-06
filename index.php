@@ -15,6 +15,8 @@
     $FishLabel = new FishLabel;
 
     echo $FishLabel->createAllCards();
+	
+	echo $FishLabel->createAllAttributions();
 
 ?>
 
