@@ -7,7 +7,10 @@
       "max": "",
       "avg": 11
     },
-    "image_url": "https://www.petsolutions.com/images/Products/13500.jpg",
+	"image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Xiphophorus_hellerii_red_male_female_01.jpg",
+	"image_license": "Creative Commons Attribution-Share Alike 4.0 Internationa",
+	"image_requires_attribution": true,
+	"image_attribution": "Wojciech J. Płuciennik - https://commons.wikimedia.org/wiki/File:Xiphophorus_hellerii_red_male_female_01.jpg",
     "region": "Central America",
     "group_size": "Harem",
     "temper": "Peaceful",
@@ -27,7 +30,10 @@
   "cardinal_tetra": {
     "name": "Cardinal Tetra",
     "latin_name": "Paracheirodon Axelrodi",
-    "image_url": "https://aquaticmag.com/wp-content/uploads/2016/02/Cardinal-Tetra-Caresheet-information-Paracheirodon-axelrodi-for-sale-and-where-to-buy-AquaticMag-3.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Paracheirodon_cardinalis.JPG",
+	"image_license": "Unknown",
+	"image_requires_attribution": true,
+	"image_attribution": "Axel Rouvin - https://commons.wikimedia.org/wiki/File:Paracheirodon_cardinalis.JPG",
     "length": {
       "min": 2,
       "max": 3.5,
@@ -53,6 +59,9 @@
     "name": "Spotted Orange Seam Pleco",
     "latin_name": "Hemiancistrus Guahiborum",
     "image_url": "http://www.aquariumfish.net/images_01/orange_seam_pleco_150502a5_w0480.jpg",
+	"image_license": "Image sourced from google - License info unclear",
+	"image_requires_attribution": false,
+	"image_attribution": "",
     "length": {
       "min": "",
       "max": 15,
@@ -78,6 +87,9 @@
     "name": "African filter shrimp",
     "latin_name": "Atya Gabonensis",
     "image_url": "http://diszhal.info/halak/Atya_gabonensis.jpg",
+	"image_license": "Image sourced from google - License info unclear",
+	"image_requires_attribution": false,
+	"image_attribution": "",
     "length": {
       "min": 12,
       "max": 15,
@@ -102,7 +114,10 @@
   "betta": {
     "name": "Siamese Fighting Fish",
     "latin_name": "Betta Splendens",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bettasplendens.jpg",
+    "image_url": "images/betta.jpg",
+	"image_license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+	"image_requires_attribution": true,
+	"image_attribution": "Christiaan Blom - https://github.com/Deinara/fish_labeler",
     "length": {
       "min": 5,
       "max": 7.5,

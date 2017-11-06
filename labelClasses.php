@@ -113,12 +113,18 @@ class FishLabel
 	{
 		if (!empty($url))
 		{
+			if (strpos("www", $url) === false && strpos("http", $url) === false){
+				if (file_exists ( $url ))
+				{
+					return $url;
+				}
+			}
 			$array = get_headers($url);
 			$string = $array[0];
 			if(strpos($string,"200"))
-			    {
-				    return $url;
-			    }
+			{
+			    return $url;
+			}
 		}
 		return 'no_image.png';
 	}
