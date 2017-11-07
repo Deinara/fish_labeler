@@ -7,27 +7,31 @@ Example:
 
 
 ```json
-"swordtail": {
-    "name": "Swordtail",
-    "latin_name": "Xiphophorous Hellerii",
+  "betta": {
+    "name": "Siamese Fighting Fish",
+    "latin_name": "Betta Splendens",
+    "image_url": "images/betta.jpg",
+	"image_license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License",
+	"image_requires_attribution": true,
+	"image_attribution": "Christiaan Blom",
+	"image_attribution_url": "https://github.com/Deinara/fish_labeler",
     "length": {
-      "min": "",
-      "max": "",
-      "avg": 11
+      "min": 5,
+      "max": 7.5,
+      "avg": 7
     },
-    "image_url": "https://www.petsolutions.com/images/Products/13500.jpg",
-    "region": "Central America",
+    "region": "Southern Asia",
     "group_size": "Harem",
-    "temper": "Peaceful",
-    "min_aquarium_size": 80,
-    "food_type": "Omnivore",
+    "temper": "Terretorial",
+    "min_aquarium_size": 100,
+    "food_type": "Carnivore",
     "temps": {
-      "min": 23,
+      "min": 25,
       "max": 28,
-      "ideal": 24
+      "ideal": ""
     },
     "pH": {
-      "min": 7,
+      "min": 6,
       "max": 8,
       "ideal": ""
     }
